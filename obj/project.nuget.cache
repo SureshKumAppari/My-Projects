@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "I94IxeG2BVth6zIrsyDwI0IEVNMtrvwaDMS6G71CkyzbrHe8HSAuSOl7mjkFpBaM40cSlbadPjqAbZk3K49wWQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\sures\\OneDrive\\Documents\\GitHub\\SerilogServiceInDotNet5\\SerilogServiceInDotNet5.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Hosting (>= 5.0.0)' for 'net5.0'.",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
